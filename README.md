@@ -1,6 +1,6 @@
 # Youtube-Search-API
 
--> Firstly I created a google account to access the Google API Console, request an API key, and register your application.
+-> Firstly I created a google account to access the Google API Console, request an API key, and register your application. 
 -> Create a project in the Google Developers Console
 -> After creating your project, make sure the YouTube Data API is one of the services that your application is registered to use:
     Go to the API Console and select the project that you just registered.
